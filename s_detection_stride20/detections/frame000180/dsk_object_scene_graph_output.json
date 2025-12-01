@@ -1,0 +1,62 @@
+{
+    "object_0": {
+        "id": 0,
+        "object_tag": "Cabinet",
+        "object_caption": {
+            "id": 0,
+            "name": "Cabinet",
+            "caption": "The image depicts a small, well-lit room with a gray carpeted floor. The room has a window on the left side, allowing natural light to enter. The window has horizontal blinds partially closed. \n\nOn the right side of the room, there is a wooden cabinet with a light brown finish. The cabinet has three drawers, each with a horizontal handle. On top of the cabinet, there are a few items: a blue object, possibly a book or a folder, and a transparent plastic bag containing some items. \n\nNext to the cabinet, there is a wicker basket placed on the floor. The basket appears to be empty. \n\nIn the foreground, there is a white, fluffy rug partially visible, suggesting that the room might be used for relaxation or as a waiting area. The walls of the room are painted in a light color, and the baseboards are black, creating a simple and clean aesthetic."
+        },
+        "bbox_extent": [
+            343.0,
+            383.0,
+            -1
+        ],
+        "bbox_center": [
+            656.5,
+            191.5,
+            -1
+        ],
+        "bbox_volume": -1
+    },
+    "object_1": {
+        "id": 1,
+        "object_tag": "Storage box",
+        "object_caption": {
+            "id": 1,
+            "name": "Storage box",
+            "caption": "The image does not contain any objects related to the storage box."
+        },
+        "bbox_extent": [
+            75.0,
+            30.0,
+            -1
+        ],
+        "bbox_center": [
+            662.5,
+            15.0,
+            -1
+        ],
+        "bbox_volume": -1
+    },
+    "object_2": {
+        "id": 2,
+        "object_tag": "Bakset",
+        "object_caption": {
+            "id": 2,
+            "name": "Bakset",
+            "caption": "The image depicts a small, well-lit room with a gray carpeted floor. The room has a window on the left side, allowing natural light to enter. On the right side of the room, there is a wooden dresser with three drawers, each featuring a round, wooden knob. On top of the dresser, there are a few items, including a blue object and a white object wrapped in plastic. Next to the dresser, there is a woven basket. The walls are painted in a light color, and the baseboards are black. The room appears to be a part of a larger facility, possibly a medical or research facility, given the utilitarian design and the presence of the dresser and basket."
+        },
+        "bbox_extent": [
+            101.0,
+            228.0,
+            -1
+        ],
+        "bbox_center": [
+            440.5,
+            166.0,
+            -1
+        ],
+        "bbox_volume": -1
+    }
+}
